@@ -1,0 +1,17 @@
+{
+    "name": "sail-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Miguel Hernandez"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sail-bower.git"
+    },
+    "description": "Sail font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
